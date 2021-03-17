@@ -37,6 +37,18 @@
     ``` 
 - This will start a local server that you can access with [This Link](http://localhost:3000/) on your browser
 
+### Milestone-6
+
+- In order for this to be a full application, it needs to connect it with a backend that can store all the information about the books that user owns. 
+- It needs to create a new Ruby on Rails application, it
+will be a simple REST API, which should:
+ - 1. To allow the user to obtain a list of books in your library
+ - 2. To allow the user to remove a book from your library
+ - 3. To allow user to add a book to your library
+ - 4.Each book should have a title, author (blank by default), and a Category
+ - 5. This React/Redux app should make GET/POST/PUT requests to this Rails API to obtain and save data
+ - 6. In order to make things simple for now, it needs to deploy the React app and the Rails app as two separate apps
+
 ## Authors  ![Hireable](https://img.shields.io/badge/HIREABLE-YES-yellowgreen&?style=for-the-badge)
 
 👤 **Oksana Petrova**
