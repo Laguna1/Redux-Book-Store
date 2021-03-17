@@ -13,10 +13,11 @@
 - HTML
 - CSS
 - VS Code
+- Netlify
 
 ## Live Demo
 
-> Check this app on this [Live demo link](http://redux-bookstore-373.herokuapp.com/)
+> Check this app on this [Live demo link](https://dazzling-fermi-cba2b5.netlify.app/)
 
 ## How to Install
 
@@ -45,7 +46,7 @@ will be a simple REST API, which should:
  - 1. To allow the user to obtain a list of books in your library
  - 2. To allow the user to remove a book from your library
  - 3. To allow user to add a book to your library
- - 4.Each book should have a title, author (blank by default), and a Category
+ - 4. Each book should have a title, author (blank by default), and a Category
  - 5. This React/Redux app should make GET/POST/PUT requests to this Rails API to obtain and save data
  - 6. In order to make things simple for now, it needs to deploy the React app and the Rails app as two separate apps
 
